@@ -4,8 +4,8 @@ import IMG1 from "../../assets/pokedex.png";
 import IMG2 from "../../assets/MEET-screenshot.png";
 import IMG3 from "../../assets/myflix.png";
 import IMG4 from "../../assets/todolist.png";
-import IMG5 from "../../assets/digitalClock.png";
-import IMG6 from "../../assets/MEET-screenshot.png";
+import IMG5 from "../../assets/weatherapp.png";
+import IMG6 from "../../assets/digitalClock.png";
 const data = [
   {
     id: 1,
