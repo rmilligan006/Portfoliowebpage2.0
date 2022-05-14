@@ -1,3 +1,10 @@
+<h1>React portfolio webpage</h1>
+Okay so this is just a template for now but this is a template for my portfolio that I am gonna use.
+
+Deployed at: https://portfoliowebpage2-0.vercel.app/
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
